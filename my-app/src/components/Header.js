@@ -6,7 +6,7 @@ import React , {Component} from 'react';
 class Header extends Component{
     render() {
         return (
-            <div><h1 class="App-header">React is Awesome!</h1>
+            <div><h1 className="App-header">React is Awesome!</h1>
             <img src="https://www.import.io/wp-content/uploads/2017/10/React-logo-1.png" alt="React"/>
            
              
